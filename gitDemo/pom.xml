@@ -6,7 +6,7 @@
   
   
   <properties>
-<suiteXmlFile>src\testng.xml</suiteXmlFile>
+<suiteXmlFile>testng.xml</suiteXmlFile>
 </properties>
 
 
