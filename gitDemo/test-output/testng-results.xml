@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26" started-at="2020-01-27T21:41:46Z" finished-at="2020-01-27T21:41:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26" started-at="2020-01-27T21:41:46Z" finished-at="2020-01-27T21:41:46Z">
+      <class name="gitDemo.GitDemo">
+        <test-method status="PASS" signature="SampleTest()[pri:0, instance:gitDemo.GitDemo@6ad5c04e]" name="SampleTest" duration-ms="11" started-at="2020-01-28T03:11:46Z" finished-at="2020-01-28T03:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SampleTest -->
+      </class> <!-- gitDemo.GitDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
